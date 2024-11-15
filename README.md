@@ -9,7 +9,7 @@ I served as a Customer Service Agent at Emirates via Hallmark Aviation from Augu
 - ⚡ Hobby: I love playing and watching soccer 
 
 ## 🔍 Open for Opportunities
-I am actively seeking front-end web developer positions. With a strong foundation in HTML, CSS, and JavaScript, I am eager to bring my skills to a dynamic team.
+I am actively seeking front-end web developer positions. With a strong foundation in HTML, CSS, JavaScript, and React, I am eager to bring my skills to a dynamic team.
 
 - **Role**: Front-End Web Developer
 - **Location**: Open to remote positions or anywhere in New Jersey
@@ -19,6 +19,7 @@ I am actively seeking front-end web developer positions. With a strong foundatio
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -32,3 +33,4 @@ Using Agile web development with Nextjs, I made a portfolio website that has sec
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-hossain-95b573254/)
+
