@@ -28,8 +28,8 @@ I am actively seeking front-end web developer positions. With a strong foundatio
 ### [Empower Your Fitness Journey](https://group-f-final-project.vercel.app/)
 This project necessitated collaborative teamwork to develop a sophisticated business website. Leveraging cutting-edge technologies like Agile, and NodeJS, as well as harnessing the power of Google Analytics, we meticulously crafted an engaging online platform. Our website features diverse sections comprising informative articles, a robust privacy policy, and a dynamic blog page.
 
-### [Portfolio Project](https://github.com/Tarek514/webdev1_final_individual)
-Using Agile web development with Nextjs, I made a portfolio website that has sections dedicated to introducing myself, my professional experience, projects, skillset, and a contact me section. I integrated MailChimp into my project so whenever anyone signs up to contact me, they will be redirected to MailChimp where they can fill out a form to get in touch with me. Furthermore, I've harnessed the power of Google Analytics, enabling real-time tracking of website traffic and user interaction. This invaluable tool provides insightful data on the number of visitors and how they engage with the content, empowering me to continuously refine and improve the user experience.
+### [Portfolio Project](https://my-portfolio-kappa-two-32.vercel.app/)
+This is my portfolio built with vanilla HTML, CSS, and JavaScript, highlighting my skills, experiences, and projects in a clean and user-friendly design. It includes sections on my background, work experience at Hallmark Aviation, relevant education, and a portfolio of projects, with links for more details. The site also features a contact form powered by Web3Forms and integrated Google Analytics to track user interaction for continuous improvement.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-hossain-95b573254/)
