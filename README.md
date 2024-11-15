@@ -25,11 +25,14 @@ I am actively seeking front-end web developer positions. With a strong foundatio
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Featured Projects
+### [Portfolio Project](https://my-portfolio-kappa-two-32.vercel.app/)
+This is my portfolio built with vanilla HTML, CSS, and JavaScript, highlighting my skills, experiences, and projects in a clean and user-friendly design. It includes sections on my background, work experience at Hallmark Aviation, relevant education, and a portfolio of projects, with links for more details. The site also features a contact form powered by Web3Forms and integrated Google Analytics to track user interaction for continuous improvement.
+
 ### [Empower Your Fitness Journey](https://group-f-final-project.vercel.app/)
 This project necessitated collaborative teamwork to develop a sophisticated business website. Leveraging cutting-edge technologies like Agile, and NodeJS, as well as harnessing the power of Google Analytics, we meticulously crafted an engaging online platform. Our website features diverse sections comprising informative articles, a robust privacy policy, and a dynamic blog page.
 
-### [Portfolio Project](https://my-portfolio-kappa-two-32.vercel.app/)
-This is my portfolio built with vanilla HTML, CSS, and JavaScript, highlighting my skills, experiences, and projects in a clean and user-friendly design. It includes sections on my background, work experience at Hallmark Aviation, relevant education, and a portfolio of projects, with links for more details. The site also features a contact form powered by Web3Forms and integrated Google Analytics to track user interaction for continuous improvement.
+### [Robo-Search React App](https://tarek514.github.io/Robo-Search/)
+This is a Robo-search project built using React where users can search through a list of robots by typing into a search bar, dynamically filtering the displayed robot cards based on the search input. It has components such as a search bar, card, and card list to name a few that come with state management to handle the search functionality. The data and the images of the robots are retrieved using two different APIs; one provides the names and emails while the other creates a unique robot image based on the data
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarek-hossain-95b573254/)
