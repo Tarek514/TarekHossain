@@ -3,7 +3,7 @@
 ## About Me
 I served as a Customer Service Agent at Emirates via Hallmark Aviation from August 2022 to January 2023, where I honed my skills in active listening, interpersonal communication, and customer engagement to deliver exceptional service. Outside of work, I dedicate my spare time to continuously enhancing my web development capabilities through Udemy courses, ensuring I remain at the forefront of the field. These courses have enabled me to create a diverse range of projects consisting of HTML, CSS, as well as JavaScript that effectively demonstrate my proficiency as a front-end web developer.
 
-- 🔭 I’m currently working on Smart Brain React Project
+- 🔭 I’m currently working on The Odin Project
 - 🌱 I’m currently learning React through Udemy
 - 📫 How to reach me: [Email](mailto:tarekh122@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tarek-hossain-95b573254/)
 - ⚡ Hobby: I love playing and watching soccer 
