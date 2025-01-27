@@ -25,7 +25,7 @@ I am actively seeking front-end web developer positions. With a strong foundatio
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ## Featured Projects
-### [Portfolio Project](https://my-portfolio-kappa-two-32.vercel.app/)
+### [Initial Portfolio Project](https://my-portfolio-kappa-two-32.vercel.app/)
 This is my portfolio built with vanilla HTML, CSS, and JavaScript, highlighting my skills, experiences, and projects in a clean and user-friendly design. It includes sections on my background, work experience at Hallmark Aviation, relevant education, and a portfolio of projects, with links for more details. The site also features a contact form powered by Web3Forms and integrated Google Analytics to track user interaction for continuous improvement.
 
 ### [Empower Your Fitness Journey](https://group-f-final-project.vercel.app/)
