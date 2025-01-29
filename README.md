@@ -1,12 +1,20 @@
-# Hi there, I'm Tarek Hossain! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tarek Hossain
+=====================================================================================================================================
 
 ## About Me
-I served as a Customer Service Agent at Emirates via Hallmark Aviation from August 2022 to January 2023, where I honed my skills in active listening, interpersonal communication, and customer engagement to deliver exceptional service. Outside of work, I dedicate my spare time to continuously enhancing my web development capabilities through Udemy courses, ensuring I remain at the forefront of the field. These courses have enabled me to create a diverse range of projects consisting of HTML, CSS, as well as JavaScript that effectively demonstrate my proficiency as a front-end web developer.
+I am a recent graduate with a degree in Information Technology from New Jersey Institute of Technology, eager to launch my career as a frontend web developer. I have built a solid foundation in HTML, CSS, JavaScript, Bootstrap, React, and jQuery through hands-on projects and Udemy courses. My experience includes designing responsive websites, optimizing user interfaces, and implementing modern web practices. 
 
-- 🔭 I’m currently working on The Odin Project
-- 🌱 I’m currently learning WordPress through Udemy
-- 📫 How to reach me: [Email](mailto:tarekh122@gmail.com) or [LinkedIn](https://www.linkedin.com/in/tarek-hossain-95b573254/)
-- ⚡ Hobby: I love playing and watching soccer 
+During my tenure as a Customer Service Agent at Emirates via Hallmark Aviation from August 2022 to January 2023, I enhanced my skills in active listening, engaged with customers, and delivered exceptional service. This role sharpened my ability to adapt, resolve issues, and communicate effectively, which I now apply to my web development projects. 
+
+In my spare time, I dedicate myself to advancing my web development skills through Udemy courses. These courses have empowered me to create a diverse array of projects, showcasing my proficiency in front-end development. I am excited to leverage my technical skills, contribute to innovative projects, and collaborate with a team committed to delivering exceptional user experiences.
+
+* 🌍  I'm based in New Jersey
+* 🖥️  See my portfolio at [My Portfolio](http://https://tarek-hossain.netlify.app/)
+* ✉️  You can contact me at [tarekh122@gmail.com](mailto:tarekh122@gmail.com)
+* 🚀  I'm currently working on [The Odin Project](http://https://www.theodinproject.com/)
+* 🧠  I'm learning WordPress
+* 🤝  I'm open to collaborating on Front-End Projects
+* ⚡  I love playing and watching soccer
 
 ## 🔍 Open for Opportunities
 I am actively seeking front-end web developer positions. With a strong foundation in HTML, CSS, JavaScript, and React, I am eager to bring my skills to a dynamic team.
